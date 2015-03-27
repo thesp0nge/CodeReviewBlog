@@ -1,0 +1,13 @@
+Derived from phpblogsystem, which is released under the
+Creative Commons Attribution License from:
+http://sourceforge.net/projects/phpblogsystem/
+
+Commenting adapted from:
+http://www.script-tutorials.com/how-to-create-own-commenting-system.
+http://www.script-tutorials.com/terms-of-use/ states, "The source
+code (text and images) and examples on Script Tutorials are
+copyrighted. You can use it in your work (personal and commercial
+projects). Our articles may not be used or copied without written
+permission (this includes translation of the articles in different
+languages)."
+

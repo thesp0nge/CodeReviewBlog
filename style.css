@@ -1,0 +1,40 @@
+#main {
+border-width:1;
+border-color:black;
+float: center;
+background-color:lightgrey;
+}
+
+#side {
+background-color: darkgrey;
+}
+
+#header {
+background-color:grey;
+}
+
+#menu {
+background-color:black;
+color:white
+}
+
+#menu_link_1:link {
+color:white
+}
+
+#menu_link_1:visited {
+color:white
+}
+
+#side {
+float:left
+}
+
+#footer {
+float:bottom;
+}
+
+#all {
+font-family:sans-serif
+
+}
